@@ -41,7 +41,6 @@ class Bujursangkar :public bidangDatar {
 public:
 	void input() {
 		int s;
-		cout << "bujursangkar dibuat\n " << endl;
 		cout << "Masukkan sisi bujursangkar ";
 		cin >> s;
 			setX(s);
